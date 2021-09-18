@@ -1,0 +1,50 @@
+.menu {
+    list-style: none;
+    position: fixed;
+    right: 30px;
+    left: 5px;
+    cursor: pointer;
+    background:ghostwhite;
+    width: 150%;
+    margin-top: -5px;
+
+  }
+  .travel_mainDiv{
+    border-bottom: 1px solid #f72585;
+    border-left: 1px solid #f72585;
+    border-right: 1px solid #f72585;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+.travel_mainDiv img{
+  width: 700px;
+}
+
+.travel_mainDiv hr{
+    width: 230px; 
+}
+
+.travel_mainDiv h5 , .travel_mainDiv p
+{
+margin-left: 20px;
+}
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i
+{
+float: right;
+}
+
+.movie_text span
+{
+color: #ff7700;
+}
